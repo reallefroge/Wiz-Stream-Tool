@@ -7,3 +7,6 @@ mss
 Pillow
 pytesseract
 pyinstaller
+
+
+Eventually moving away from Python. Removing all windowed things and having it automatically load up the Web Localhost.  
